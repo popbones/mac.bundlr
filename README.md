@@ -2,7 +2,7 @@
 
 ## Foreword
 
-This is just a side project I created about a year ago, when I'm frustrated about organizing my files. It is far from finished and not for everyone. And I doubt that I'll put more effort into it anytime soon.
+This was a side project I created about a year ago when I was frustrated about organizing my files. It is far from finished and not for everyone. And I doubt that I'll put more effort into it anytime soon. So proceed with caution if you are interested in it.
 
 ## Description
 
